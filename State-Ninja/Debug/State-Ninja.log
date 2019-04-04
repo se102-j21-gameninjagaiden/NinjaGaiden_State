@@ -1,0 +1,19 @@
+﻿  Game.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\thaon\desktop\state-ninja\state-ninja\gamecomponents\game.cpp(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thaon\desktop\state-ninja\state-ninja\gamecomponents\game.cpp(40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\thaon\desktop\state-ninja\state-ninja\gamecomponents\game.cpp(324): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  PlayerFallingState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  PlayerJumpingState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  PlayerRunningState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  PlayerSittingState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  PlayerStandingState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  main.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Generating Code...
+  State-Ninja.vcxproj -> C:\Users\thaon\Desktop\State-Ninja\Debug\State-Ninja.exe
